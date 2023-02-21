@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mandelbrot.ComplexTest" tests="23" skipped="0" failures="0" errors="0" timestamp="2022-09-28T10:09:20" hostname="V-PJ-47-087" time="0.114">
+  <properties/>
+  <testcase name="testDivideByZero()" classname="mandelbrot.ComplexTest" time="0.058"/>
+  <testcase name="testAdd()" classname="mandelbrot.ComplexTest" time="0.001"/>
+  <testcase name="testOne()" classname="mandelbrot.ComplexTest" time="0.003"/>
+  <testcase name="testPow()" classname="mandelbrot.ComplexTest" time="0.0"/>
+  <testcase name="testBasicToString()" classname="mandelbrot.ComplexTest" time="0.008"/>
+  <testcase name="testSubtract()" classname="mandelbrot.ComplexTest" time="0.001"/>
+  <testcase name="testScale()" classname="mandelbrot.ComplexTest" time="0.0"/>
+  <testcase name="testZero()" classname="mandelbrot.ComplexTest" time="0.0"/>
+  <testcase name="testReciprocal()" classname="mandelbrot.ComplexTest" time="0.0"/>
+  <testcase name="testGetReal()" classname="mandelbrot.ComplexTest" time="0.001"/>
+  <testcase name="testSquaredModulus()" classname="mandelbrot.ComplexTest" time="0.001"/>
+  <testcase name="testComplexReal()" classname="mandelbrot.ComplexTest" time="0.001"/>
+  <testcase name="testReciprocalOfZero()" classname="mandelbrot.ComplexTest" time="0.001"/>
+  <testcase name="testConjugate()" classname="mandelbrot.ComplexTest" time="0.0"/>
+  <testcase name="testI()" classname="mandelbrot.ComplexTest" time="0.0"/>
+  <testcase name="testGetImaginary()" classname="mandelbrot.ComplexTest" time="0.001"/>
+  <testcase name="testRotation()" classname="mandelbrot.ComplexTest" time="0.011"/>
+  <testcase name="testModulus()" classname="mandelbrot.ComplexTest" time="0.001"/>
+  <testcase name="testDivide()" classname="mandelbrot.ComplexTest" time="0.001"/>
+  <testcase name="testEquals()" classname="mandelbrot.ComplexTest" time="0.001"/>
+  <testcase name="testMultiply()" classname="mandelbrot.ComplexTest" time="0.001"/>
+  <testcase name="testNegate()" classname="mandelbrot.ComplexTest" time="0.001"/>
+  <testcase name="testToStringFormat()" classname="mandelbrot.ComplexTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
